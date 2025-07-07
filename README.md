@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="30" alt="laravel logo" title="laravel" />
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="30" width="10" alt="laravel logo" title="laravel" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" title="php" />
   <img width="12" />
